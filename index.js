@@ -11,14 +11,49 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'Description?',
+        message: 'Please provide a brief description.',
         name: 'description'
+      },
+      {
+        type: 'input',
+        message: 'What are the steps required to install your project?',
+        name: 'installation'
+      },
+      {
+        type: 'input',
+        message: 'Provide instructions and examples for use.',
+        name: 'usage'
+      },
+      {
+        type: 'input',
+        message: 'List your collaborators, if any, with GitHub profile links.',
+        name: 'contributors'
+      },
+      {
+        type: 'input',
+        message: 'If you wrote tests, provide examples on how to run them.',
+        name: 'tests'
+      },
+      {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'github'
+      },
+      {
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'email'
+      },
+      {
+        type: 'input',
+        message: 'How can others contact you with questions?',
+        name: 'questions'
       },
       {
         type: 'list',
         message: 'What is the license?',
         name: 'license',
-        choices: ['GPL_3.0', 'BSD_3', 'none']
+        choices: ['GPL-3.0', 'BSD_3', 'none']
       },
 ];
 
