@@ -53,7 +53,7 @@ const questions = [
         type: 'list',
         message: 'What is the license?',
         name: 'license',
-        choices: ['GPL-3.0', 'BSD_3', 'none']
+        choices: ['GPL-3.0', 'BSD-3-Clause', 'Apache-2.0', 'MPL-2.0', 'none']
       },
 ];
 
