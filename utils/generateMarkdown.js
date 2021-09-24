@@ -41,7 +41,7 @@ ${data.description}
 [Description](#Description)
 [Installation](#Installation)
 [Usage](#Usage)
-[Contributing](#Contributing)
+[Contributions](#Contributing)
 [Tests](#Tests)
 [Questions](#Questions)
 
@@ -53,7 +53,7 @@ ${data.installation}
 
 ${data.usage}
 
-## Contributing
+## Contributions
 
 ${data.contributors}
 

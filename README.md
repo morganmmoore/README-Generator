@@ -8,9 +8,6 @@ This application will prompt each user with a series of questions to auto-genera
 ## Table of Contents
 [Description](#Description)
 [Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#Contributing)
-[Tests](#Tests)
 [Questions](#Questions)
 
 ## Installation
