@@ -1,9 +1,9 @@
-# fikwds
-(https://opensource.org/licenses/GPL-3.0)
+# README Generator
+
 
 ## Description
 
-ihweoi
+This application will prompt each user with a series of questions to auto-generate a README.md.
 
 ## Table of Contents
 [Description](#Description)
@@ -15,22 +15,14 @@ ihweoi
 
 ## Installation
 
-iohweiohw
+Clone this repository to your personal device to use.
 
 ## Usage
 
-iwhfoei
-
-## Contributing
-
-ifweohf
-
-## Tests
-
-eiwofhw
+Begin by typing ``` node index ``` into your terminal. Answer each prompt. Click the auto-generated README to view the result.
 
 ## Questions
 
-* weiohf
-* heiowh
-* ioehw
+* morganmmoore https://github.com/morganmmoore
+* morganmmoore0@gmail.com
+* Contact me via email with any further questions.
