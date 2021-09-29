@@ -24,7 +24,7 @@ function renderLicenseSection(license) {
   if (license === 'none') {
     return 'None';
   } else {
-    return `${data.licenseInfo}`
+    return `${license}`
   }
 }
 
@@ -59,7 +59,7 @@ ${data.contributors}
 
 ## License
 
-This application is covered under: ${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
 
 ## Tests
 

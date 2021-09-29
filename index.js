@@ -55,11 +55,6 @@ const questions = [
         name: 'license',
         choices: ['GPL-3.0', 'BSD-3-Clause', 'Apache-2.0', 'MPL-2.0', 'none']
       },
-      {
-        type: 'input',
-        message: 'If a license was selected, please provide an explanation to which License the application is covered under. If none selected, leave blank.',
-        name: 'licenseInfo'
-      },
 ];
 
 // TODO: Create a function to write README file

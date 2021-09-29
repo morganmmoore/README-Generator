@@ -1,11 +1,11 @@
 # README Generator
 
-
 ## Description
 
 A generator that is able to provide a full and accurate README.md
 
 ## Table of Contents
+
 [Description](#Description)
 [Installation](#Installation)
 [Usage](#Usage)
@@ -20,18 +20,11 @@ Clone this repository to your computer.
 ## Usage
 
 Access the file in your terminal. When it it open, type in ```node index.js```
-
-## Contributions
-
-
+https://youtu.be/u4oSIGK2FMw
 
 ## License
 
 This application is covered under: None
-
-## Tests
-
-
 
 ## Questions
 
