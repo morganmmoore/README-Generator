@@ -19,7 +19,12 @@ Clone this repository to your computer.
 
 ## Usage
 
-Access the file in your terminal. When it it open, type in ```node index.js```
+1. Access the file in your terminal. 
+2. Type in ```npm install```
+3. When that is complete, type in ```node index.js```
+4. Answer the prompts
+5. View the generated README.md
+
 https://youtu.be/u4oSIGK2FMw
 
 ## License
