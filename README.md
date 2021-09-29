@@ -9,8 +9,7 @@ A generator that is able to provide a full and accurate README.md
 [Description](#Description)
 [Installation](#Installation)
 [Usage](#Usage)
-[Contributions](#Contributing)
-[Tests](#Tests)
+[License](#License)
 [Questions](#Questions)
 
 ## Installation
